@@ -10,7 +10,7 @@ A simple React application that allows job applicants to request interviews and 
 - **Responsive Design**: Works on desktop and mobile devices
 
 - ## Deployment Link:-
- https://job-platform-chi.vercel.app/apply
+ https://job-platform-chi.vercel.app
  
 
 ## Tech Stack

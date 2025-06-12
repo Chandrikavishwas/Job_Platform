@@ -9,6 +9,10 @@ A simple React application that allows job applicants to request interviews and 
 - **Real-time Updates**: New requests appear automatically without page refresh
 - **Responsive Design**: Works on desktop and mobile devices
 
+- ## Deployment Link:-
+ https://job-platform-chi.vercel.app/apply
+ 
+
 ## Tech Stack
 
 - **Frontend**: React with JSX
@@ -16,8 +20,6 @@ A simple React application that allows job applicants to request interviews and 
 - **Database**: Firebase Realtime Database
 - **Routing**: React Router DOM
 
-## Deployment Link:-
-  https://gilded-stroopwafel-5aef51.netlify.app/apply
 
 ## Project Structure
 ```

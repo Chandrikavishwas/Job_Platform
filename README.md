@@ -15,9 +15,12 @@ A simple React application that allows job applicants to request interviews and 
 - **Styling**: Custom CSS with Tailwind
 - **Database**: Firebase Realtime Database
 - **Routing**: React Router DOM
-## Deployment Link:-
-## Project Structure
 
+## Deployment Link:-
+  https://gilded-stroopwafel-5aef51.netlify.app/apply
+
+## Project Structure
+```
 src/
 ├── components/
 │   └── Navigation.jsx          
@@ -29,7 +32,8 @@ src/
 ├── styles/
 │   └── App.css               
 ├── App.jsx                  
-└── main.jsx                 
+└── main.jsx
+```             
 
 ### For Applicants
 1. Go to "Apply for Job" page
